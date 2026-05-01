@@ -1,0 +1,14 @@
+[project]
+name = "checkin"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "discord>=2.3.2",
+    "fastapi>=0.136.1",
+    "python-dotenv>=1.2.2",
+    "tabulate>=0.10.0",
+    "uvicorn>=0.46.0",
+    "wcwidth>=0.6.0",
+]
